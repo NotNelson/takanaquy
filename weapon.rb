@@ -1,4 +1,4 @@
-class Fighter_type
+class Weapon
     attr_accessor :name
 
     def initialize(name)

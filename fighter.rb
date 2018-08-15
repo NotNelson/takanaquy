@@ -5,5 +5,9 @@ class Fighter
         @name = name
         @type = type
     end
-    
+
+    def name
+        @name
+    end
+
 end
